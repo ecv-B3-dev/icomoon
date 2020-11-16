@@ -1,0 +1,12 @@
+.icon{
+  font-size: 100px;
+}
+.icon-grey{ color: grey; }
+.icon-pink{
+  color: pink;
+}
+
+.icon-heart:hover{
+  transition: all 1s linear;
+  color: crimson;
+}
